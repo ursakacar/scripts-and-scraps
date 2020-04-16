@@ -1,0 +1,2 @@
+export foldername="abp-release-2019-4"
+export uibranch="release-2019-4"
