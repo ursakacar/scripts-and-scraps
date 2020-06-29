@@ -20,7 +20,6 @@ for page in ${pages[@]}; do
 				# warning: this will open 16 new tabs per page
 				$browser http://127.0.0.1:8080/$page?locale=$locale
 			done
-			$browser $translated-pages
 		done
 	fi
 done
