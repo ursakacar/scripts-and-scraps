@@ -16,9 +16,9 @@ for page in ${pages[@]}; do
 				# ugly workaround, firefox needs to be opened before te for loop below is run, in order to open all tabs at the same time
 				firefox &
 			fi
-			for locale in ${coreLocales[@]}; do
+			for coreLocale in ${coreLocales[@]}; do
 				# warning: this will open 16 new tabs per page
-				$browser http://127.0.0.1:8080/$page?locale=$locale
+				$browser http://127.0.0.1:8080/$page?locale=$coreLocale
 			done
 		done
 	fi
