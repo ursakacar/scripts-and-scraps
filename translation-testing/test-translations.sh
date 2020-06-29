@@ -2,7 +2,7 @@
 
 # will ask which pages you want opened and then open a tab per for each locale in FF and chrome
 
-cd adblockplusui
+cd test-translations/adblockplusui
 
 coreLocales=(ar de el en es fr hu it ja ko nl pl pt-BR ru tr zh-CN)
 browsers=(google-chrome firefox)
@@ -15,6 +15,8 @@ for page in ${pages[@]}; do
 			if [ $browser == "firefox" ]; then
 				# ugly workaround, firefox needs to be opened before te for loop below is run, in order to open all tabs at the same time
 				firefox &
+				# yeah, I don't want to talk about it
+				sleep 3
 			fi
 			for coreLocale in ${coreLocales[@]}; do
 				# warning: this will open 16 new tabs per page
