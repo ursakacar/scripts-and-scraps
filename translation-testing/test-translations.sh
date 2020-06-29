@@ -2,7 +2,7 @@
 
 # will ask which pages you want opened and then open a tab per for each locale in FF and chrome
 
-cd test-translations/adblockplusui
+cd abpui-translations/adblockplusui
 
 coreLocales=(ar de el en es fr hu it ja ko nl pl pt-BR ru tr zh-CN)
 browsers=(google-chrome firefox)
