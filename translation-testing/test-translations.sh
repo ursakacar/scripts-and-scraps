@@ -19,7 +19,7 @@ for page in ${pages[@]}; do
 				sleep 3
 			fi
 			for coreLocale in ${coreLocales[@]}; do
-				# warning: this will open 16 new tabs per page
+				# warning: this will open 16 new tabs per page (1 per locale)
 				$browser http://127.0.0.1:8080/$page?locale=$coreLocale
 			done
 		done
