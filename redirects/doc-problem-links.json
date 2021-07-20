@@ -1,0 +1,65 @@
+[
+	{
+    "source": "share-twitter",
+    "destination":"https://share.adblockplus.org/en/"
+	},
+	{
+    "locale": "DE locale",
+    "source": "share-twitter&lang=de",
+    "destination":"https://share.adblockplus.org/de/"
+	},
+	{
+    "locale": "Fallback locale",
+    "source": "share-&lang=xy",
+    "destination":"https://share.adblockplus.org/en/"
+	},
+  {
+    "type": "direct",
+    "source": "social_facebook",
+    "destination": "https://www.facebook.com/adblockplus"
+  },
+  {
+    "source": "social_weibo",
+    "destination": "http://e.weibo.com/adblockplus/"
+  },
+  {
+    "source": "firefox_review",
+    "destination": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/"
+  },
+  {
+    "source": "opera_review",
+    "destination": "https://addons.opera.com/en/extensions/details/adblock-plus/"
+  },
+  {
+    "source": "adblock_plus_opera_dnt",
+    "destination": "http://help.opera.com/Windows/12.10/en/notrack.html"
+  },
+  {
+    "source": "firefox_review_low",
+    "destination": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/"
+  },
+  {
+    "source": "opera_review_low",
+    "destination": "https://addons.opera.com/en/extensions/details/adblock-plus/"
+  },
+  {
+    "source": "adblock_plus_edge_dnt",
+    "destination": "https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy"
+  },
+  {
+    "source": "adblock_plus_firefox_dnt",
+    "destination": "https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature"
+	},
+  {
+    "source": "firefox_store",
+    "destination": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/"
+  },
+  {
+    "source": "opera_store",
+    "destination": "https://addons.opera.com/en/extensions/details/adblock-plus/"
+  },
+  {
+    "source": "adblock_browser_ios_store",
+    "destination": "https://geo.itunes.apple.com/us/app/adblock-browser-best-ad-blocker/id1015653330"
+  }
+]

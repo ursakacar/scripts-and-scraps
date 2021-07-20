@@ -1,0 +1,132 @@
+[
+  {
+    "locale": "DE locale",
+    "source": "acceptable_ads_opt_out&lang=de",
+    "destination": "https://adblockplus.org/de/acceptable-ads#optout"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "acceptable_ads_opt_out&lang=xy",
+    "destination": "https://adblockplus.org/en/acceptable-ads#optout"
+  },
+  {
+    "locale": "DE locale",
+    "source": "uninstalled&lang=de",
+    "destination":"https://adblockplus.org/de/uninstalled?link=uninstalled&lang=de"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "uninstalled&lang=xy",
+    "destination":"https://adblockplus.org/en/uninstalled?link=uninstalled&lang=xy"
+  },
+  {
+    "locale": "DE locale",
+    "source": "gettingStarted&lang=de",
+    "destination":"https://adblockplus.org/de/getting_started"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "gettingStarted&lang=xy",
+    "destination":"https://adblockplus.org/en/getting_started"
+  },
+  {
+    "locale": "DE locale",
+    "source": "faq&lang=de",
+    "destination":"https://adblockplus.org/de/faq"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "faq&lang=xy",
+    "destination":"https://adblockplus.org/en/faq"
+  },
+  {
+    "locale": "DE locale",
+    "source": "subscriptions&lang=de",
+    "destination":"https://adblockplus.org/de/subscriptions"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "subscriptions&lang=xy",
+    "destination":"https://adblockplus.org/en/subscriptions"
+  },
+  {
+    "locale": "DE locale",
+    "source": "reporter_privacy&lang=de",
+    "destination":"https://adblockplus.org/de/privacy#issue-reporter"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "reporter_privacy&lang=xy",
+    "destination":"https://adblockplus.org/en/privacy#issue-reporter"
+  },
+{
+    "locale": "DE locale",
+    "source": "privacy&lang=de",
+    "destination":"https://adblockplus.org/de/privacy"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "privacy&lang=xy",
+    "destination":"https://adblockplus.org/en/privacy"
+  },
+  {
+    "locale": "DE locale",
+    "source": "contribute&lang=de",
+    "destination":"https://adblockplus.org/de/contribute"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "contribute&lang=xy",
+    "destination":"https://adblockplus.org/en/contribute"
+  },
+  {
+    "locale": "DE locale",
+    "source": "donate&lang=de",
+    "destination":"https://adblockplus.org/de/donate"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "donate&lang=xy",
+    "destination":"https://adblockplus.org/en/donate"
+  },
+  {
+    "locale": "DE locale",
+    "source": "acceptable_ads&lang=de",
+    "destination":"https://adblockplus.org/de/acceptable-ads"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "acceptable_ads&lang=xy",
+    "destination":"https://adblockplus.org/en/acceptable-ads"
+  },
+  {
+    "locale": "DE locale",
+    "source": "acceptable_ads_criteria&lang=de",
+    "destination":"https://adblockplus.org/de/acceptable-ads#criteria"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "acceptable_ads_criteria&lang=xy",
+    "destination":"https://adblockplus.org/en/acceptable-ads#criteria"
+  },
+  {
+    "locale": "DE locale",
+    "source": "whitelist&lang=de",
+    "destination":"https://adblockplus.org/de/faq_basics#disable"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "whitelist&lang=xy",
+    "destination":"https://adblockplus.org/en/faq_basics#disable"
+  },
+  {
+    "locale": "DE locale",
+    "source": "imprint&lang=de",
+    "destination": "https://adblockplus.org/de/imprint"
+  },
+  {
+    "locale": "Fallback locale",
+    "source": "imprint&lang=xy",
+    "destination": "https://adblockplus.org/imprint"
+  }
+]

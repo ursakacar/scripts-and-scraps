@@ -1,501 +1,291 @@
 [
-    {
-        "source": "reporter_connect_issue",
-        "destination": "https://adblockplus.org/forum/"
-    },
-    {
-        "source": "reporter_other_link",
-        "destination": "https://adblockplus.org/forum/"
-    },
-    {
-        "source": "firefox_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=1"
-    },
-    {
-        "source": "chrome_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=10"
-    },
-    {
-        "source": "opera_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=14"
-    },
-    {
-        "source": "safari_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=18"
-    },
-    {
-        "source": "edge_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=27"
-    },
-    {
-        "source": "knownIssuesChrome_filterstorage",
-        "destination": "https://adblockplus.org/forum/viewtopic.php?t=23597"
-    },
-    {
-        "description": "Default locale",
-        "source": "acceptable_ads_opt_out",
-        "destination": "https://adblockplus.org/en/acceptable-ads#optout"
-    },
-    {
-        "description": "DE locale",
-        "source": "acceptable_ads_opt_out&lang=de",
-        "destination": "https://adblockplus.org/de/acceptable-ads#optout"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "acceptable_ads_opt_out&lang=xy",
-        "destination": "https://adblockplus.org/en/acceptable-ads#optout"
-    },
-    {
-        "source": "adblock_browser_promotion",
-        "destination": "https://adblockplus.org/adblock-browser"
-    },
-    {
-        "source": "adblock_browser_android_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=24"
-    },
-    {
-        "source": "adblock_browser_android_faq",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=24"
-    },
-    {
-        "source": "adblock_browser_ios_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=25"
-    },
-    {
-        "source": "adblock_browser_android_store",
-        "destination": "https://play.google.com/store/apps/details?id=org.adblockplus.browser"
-    },
-    {
-        "source": "adblock_browser_android_store&geoip_city_country_code=cn",
-        "destination": "https://downloads.adblockplus.org/adblockbrowser-1.1.0-arm.apk"
-    },
-    {
-        "source": "adblock_browser_ios_store",
-        "destination": "https://apps.apple.com/si/app/adblock-browser/id1015653330?mt=8&ign-mpt=uo%3D4"
-    },
-    {
-        "source": "adblock_browser_android_download",
-        "destination": "https://downloads.adblockplus.org/adblockbrowser-1.1.0-arm.apk"
-    },
-    {
-        "source": "adblock_browser_website",
-        "destination": "https://adblockplus.org/adblock-browser"
-    },
-    {
-        "source": "adblock_plus_safari_ios_support",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=26"
-    },
-    {
-        "source": "adblock_plus_safari_ios_store",
-        "destination": "https://apps.apple.com/app/adblock-plus-abp/id1028871868"
-    },
-    {
-        "source": "adblock_plus_sbrowser_store",
-        "destination": "https://play.google.com/store/apps/details?id=org.adblockplus.adblockplussbrowser"
-    },
-    {
-        "source": "adblock_plus_chrome_dnt",
-        "destination": "https://support.google.com/chrome/answer/2790761"
-    },
-    {
-        "source": "adblock_plus_firefox_dnt",
-        "destination": "https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature"
-    },
-    {
-        "source": "adblock_plus_opera_dnt",
-        "destination": "http://help.opera.com/Windows/12.10/en/notrack.html"
-    },
-    {
-        "source": "adblock_plus_edge_dnt",
-        "destination": "https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy"
-    },
-    {
-        "source": "adblock_plus_report_bug",
-        "destination": "https://adblockplus.org/bugs#reporting"
-    },
-    {
-        "source": "adblock_plus_report_ad",
-        "destination": "https://forums.lanik.us/viewforum.php?f=62"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=en",
-        "destination": "https://forums.lanik.us/viewforum.php?f=64"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=id",
-        "destination": "https://forums.lanik.us/viewforum.php?f=94"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=nl",
-        "destination": "https://forums.lanik.us/viewforum.php?f=100"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=de",
-        "destination": "https://forums.lanik.us/viewforum.php?f=90"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=it",
-        "destination": "https://forums.lanik.us/viewforum.php?f=96"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=es",
-        "destination": "https://forums.lanik.us/viewforum.php?f=103"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=lt",
-        "destination": "https://forums.lanik.us/viewforum.php?f=101"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=lv",
-        "destination": "https://forums.lanik.us/viewforum.php?f=99"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=ar",
-        "destination": "https://forums.lanik.us/viewforum.php?f=98"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=fr",
-        "destination": "https://forums.lanik.us/viewforum.php?f=91"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=ru",
-        "destination": "https://forums.lanik.us/viewforum.php?f=102"
-    },
-    {
-        "source": "adblock_plus_report_issue&lang=xy",
-        "destination": "https://forums.lanik.us/viewforum.php?f=64"
-    },
-    {
-        "source": "adblock_plus_report_issue",
-        "destination": "https://forums.lanik.us/viewforum.php?f=64"
-    },
-    {
-        "source": "releases",   
-        "destination": "https://adblockplus.org/releases/"
-    },
-    {
-        "source": "social_twitter",
-        "destination": "https://twitter.com/adblockplus"
-    },
-    {
-        "description": "Defauls locale",
-        "source": "share-",
-        "destination":"https://share.adblockplus.org/en/"
-    },
-    {
-        "description": "DE locale",
-        "source": "share-&lang=de",
-        "destination":"https://share.adblockplus.org/de/"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "share-&lang=xy",
-        "destination":"https://share.adblockplus.org/en/"
-    },
-    {
-        "description": "Default locale",
-        "source": "uninstalled",
-        "destination":"https://adblockplus.org/en/uninstalled?link=uninstalled"
-    },
-    {
-        "description": "DE locale",
-        "source": "uninstalled&lang=de",
-        "destination":"https://adblockplus.org/de/uninstalled?link=uninstalled&lang=de"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "uninstalled&lang=xy",
-        "destination":"https://adblockplus.org/en/uninstalled?link=uninstalled&lang=xy"
-    },
-    {
-        "description": "Default locale",
-        "source": "gettingStarted",
-        "destination":"https://adblockplus.org/en/getting_started"
-    },
-    {
-        "description": "DE locale",
-        "source": "gettingStarted&lang=de",
-        "destination":"https://adblockplus.org/de/getting_started"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "gettingStarted&lang=xy",
-        "destination":"https://adblockplus.org/en/getting_started"
-    },
-    {
-        "description": "Default locale",
-        "source": "faq",
-        "destination":"https://adblockplus.org/en/faq"
-    },
-    {
-        "description": "DE locale",
-        "source": "faq&lang=de",
-        "destination":"https://adblockplus.org/de/faq"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "faq&lang=xy",
-        "destination":"https://adblockplus.org/en/faq"
-    },
-    {
-        "source": "filterdoc",
-        "destination":"https://help.eyeo.com/adblockplus/how-to-write-filters"
-    },
-    {
-        "description": "Default locale",
-        "source": "subscriptions",
-        "destination":"https://adblockplus.org/en/subscriptions"
-    },
-    {
-        "description": "DE locale",
-        "source": "subscriptions&lang=de",
-        "destination":"https://adblockplus.org/de/subscriptions"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "subscriptions&lang=xy",
-        "destination":"https://adblockplus.org/en/subscriptions"
-    },
-    {
-        "source": "language_subscription",
-        "destination":"https://adblockplus.org/getting_started#subscription"
-    },
-    {
-        "description": "Default locale",
-        "source": "reporter_privacy",
-        "destination":"https://adblockplus.org/en/privacy#issue-reporter"
-    },
-    {
-        "description": "DE locale",
-        "source": "reporter_privacy&lang=de",
-        "destination":"https://adblockplus.org/de/privacy#issue-reporter"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "reporter_privacy&lang=xy",
-        "destination":"https://adblockplus.org/en/privacy#issue-reporter"
-    },
-    {
-        "description": "Default locale",
-        "source": "privacy",
-        "destination":"https://adblockplus.org/en/privacy"
-    },
-    {
-        "description": "DE locale",
-        "source": "privacy&lang=de",
-        "destination":"https://adblockplus.org/de/privacy"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "privacy&lang=xy",
-        "destination":"https://adblockplus.org/en/privacy"
-    },
-    {
-        "description": "Default locale",
-        "source": "contribute",
-        "destination":"https://adblockplus.org/en/contribute"
-    },
-    {
-        "description": "DE locale",
-        "source": "contribute&lang=de",
-        "destination":"https://adblockplus.org/de/contribute"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "contribute&lang=xy",
-        "destination":"https://adblockplus.org/en/contribute"
-    },
-    {
-        "description": "Default locale",
-        "source": "donate",
-        "destination":"https://adblockplus.org/en/donate"
-    },
-    {
-        "description": "DE locale",
-        "source": "donate&lang=de",
-        "destination":"https://adblockplus.org/de/donate"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "donate&lang=xy",
-        "destination":"https://adblockplus.org/en/donate"
-    },
-    {
-        "description": "Default locale",
-        "source": "acceptable_ads",
-        "destination":"https://adblockplus.org/en/acceptable-ads"
-    },
-    {
-        "description": "DE locale",
-        "source": "acceptable_ads&lang=de",
-        "destination":"https://adblockplus.org/de/acceptable-ads"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "acceptable_ads&lang=xy",
-        "destination":"https://adblockplus.org/en/acceptable-ads"
-    },
-    {
-        "description": "Default locale",
-        "source": "acceptable_ads_criteria",
-        "destination":"https://adblockplus.org/en/acceptable-ads#criteria"
-    },
-    {
-        "description": "DE locale",
-        "source": "acceptable_ads_criteria&lang=de",
-        "destination":"https://adblockplus.org/de/acceptable-ads#criteria"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "acceptable_ads_criteria&lang=xy",
-        "destination":"https://adblockplus.org/en/acceptable-ads#criteria"
-    },
-    {
-        "description": "Default locale",
-        "source": "acceptable_ads_survey",
-        "destination":"https://adblockplus.org/en/acceptable-ads-survey"
-    },
-    {
-        "description": "DE locale",
-        "source": "acceptable_ads_survey&lang=de",
-        "destination":"https://adblockplus.org/de/acceptable-ads-survey"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "acceptable_ads_survey&lang=xy",
-        "destination":"https://adblockplus.org/en/acceptable-ads-survey"
-    },
-    {
-        "description": "Default locale",
-        "source": "privacy_friendly_ads",
-        "destination":"https://adblockplus.org/en/acceptable-ads#privacy-friendly-acceptable-ads"
-    },
-    {
-        "description": "DE locale",
-        "source": "privacy_friendly_ads&lang=de",
-        "destination":"https://adblockplus.org/de/acceptable-ads#privacy-friendly-acceptable-ads"
-    },
-    {
-        "description": "Fallabck locale",
-        "source": "privacy_friendly_ads&lang=xy",
-        "destination":"https://adblockplus.org/en/acceptable-ads#privacy-friendly-acceptable-ads"
-    },
-    {
-        "description": "Default locale",
-        "source": "contributors",
-        "destination":"https://adblockplus.org/en/contributors"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "contributors&lang=xy",
-        "destination":"https://adblockplus.org/en/contributors"
-    },
-    {
-        "description": "Default locale",
-        "source": "whitelist",
-        "destination":"https://adblockplus.org/en/faq_basics#disable"
-    },
-    {
-        "description": "DE locale",
-        "source": "whitelist&lang=de",
-        "destination":"https://adblockplus.org/de/faq_basics#disable"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "whitelist&lang=xy",
-        "destination":"https://adblockplus.org/en/faq_basics#disable"
-    },
-    {
-        "description": "Default locale",        
-        "source": "adblock_plus",
-        "destination":"https://adblockplus.org/"
-    },
-    {
-        "description": "DE locale",        
-        "source": "adblock_plus&lang=de",
-        "destination":"https://adblockplus.org/de/"
-    },
-    {
-        "description": "Fallback locale",        
-        "source": "adblock_plus&lang=xy",
-        "destination":"https://adblockplus.org/"
-    },
-    {
-        "source": "eyeo",
-        "destination":"https://eyeo.com/"
-    },
-    {
-        "source": "developer",
-        "destination": "https://adblockplus.org/forum/viewforum.php?f=4"
-    },
-    {
-        "source": "help_center",
-        "destination": "https://help.eyeo.com/"
-    },
-    {
-        "description": "Default locale",
-        "source": "help_center_abp_en",
-        "destination": "https://help.eyeo.com/en/adblockplus/"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "help_center_abp_en&lang=xy",
-        "destination": "https://help.eyeo.com/en/adblockplus/"
-    },
-    {
-        "description": "Default locale",
-        "source": "imprint",
-        "destination": "https://adblockplus.org/en/impressum"
-    },
-    {
-        "description": "DE locale",
-        "source": "imprint&lang=de",
-        "destination": "https://adblockplus.org/de/impressum"
-    },
-    {
-        "description": "Fallback locale",
-        "source": "imprint&lang=xy",
-        "destination": "https://adblockplus.org/impressum"
-    },
-    {
-        "source": "block_element",
-        "destination": "https://help.eyeo.com/adblockplus/block-item-or-element"
-    },
-    {
-        "source": "chrome_review",
-        "destination": "https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/reviews?ref=store-rating"
-    },
-    {
-        "source": "firefox_review",
-        "destination": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/"
-    },
-    {
-        "source": "opera_review",
-        "destination": "https://addons.opera.com/en/extensions/details/adblock-plus/"
-    },
-    {
-        "source": "chrome_review_low",
-        "destination": "https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/reviews?ref=store-rating"
-    },
-    {
-        "source": "firefox_review_low",
-        "destination": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/"
-    },
-    {
-        "source": "opera_review_low",
-        "destination": "https://addons.opera.com/en/extensions/details/adblock-plus/"
-    },
-    {
-        "source": "adware",
-        "destination": "https://help.eyeo.com/adblockplus/adware"
-    },
-    {
-        "source": "adblock_plus_release_blog_3.7",
-        "destination": "https://adblockplus.org/blog/new-release-adblock-plus-37"
-    },
-    {
-        "source": "adblock_plus_release_blog_3.8",
-        "destination": "https://adblockplus.org/blog/new-release-adblock-plus-38"
-    }
+  {
+    "source": "reporter_connect_issue",
+    "destination": "https://adblockplus.org/forum/"
+  },
+  {
+    "source": "reporter_other_link",
+    "destination": "https://adblockplus.org/forum/"
+  },
+  {
+    "source": "firefox_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=1"
+  },
+  {
+    "source": "chrome_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=10"
+  },
+  {
+    "source": "opera_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=14"
+  },
+  {
+    "source": "safari_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=18"
+  },
+  {
+    "source": "edge_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=27"
+  },
+  {
+    "source": "knownIssuesChrome_filterstorage",
+    "destination": "https://adblockplus.org/forum/viewtopic.php?t=23597"
+  },
+  {
+    "source": "acceptable_ads_opt_out",
+    "destination": "https://adblockplus.org/en/acceptable-ads#optout"
+  },
+  {
+    "source": "adblock_browser_promotion_1",
+    "destination": "https://adblockbrowser.org/?link=adblock_browser_promotion_1"
+  },
+  {
+    "source": "adblock_browser_android_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=24"
+  },
+  {
+    "source": "adblock_browser_android_faq",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=24"
+  },
+  {
+    "source": "adblock_browser_ios_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=25"
+  },
+  {
+    "source": "adblock_browser_android_store",
+    "destination": "https://play.google.com/store/apps/details?id=org.adblockplus.browser"
+  },
+  {
+    "source": "adblock_browser_android_download",
+    "destination": "https://downloads.adblockplus.org/adblockbrowser-1.1.0-arm.apk"
+  },
+  {
+    "source": "adblock_browser_website",
+    "destination": "https://adblockbrowser.org/"
+  },
+  {
+    "source": "adblock_plus_safari_ios_support",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=26"
+  },
+  {
+    "source": "adblock_plus_safari_ios_store",
+    "destination": "https://apps.apple.com/app/adblock-plus-abp/id1028871868"
+  },
+  {
+    "source": "adblock_plus_sbrowser_store",
+    "destination": "https://play.google.com/store/apps/details?id=org.adblockplus.adblockplussbrowser"
+  },
+  {
+    "source": "adblock_plus_chrome_dnt",
+    "destination": "https://support.google.com/chrome/answer/2790761"
+  },
+
+  {
+    "source": "adblock_plus_report_bug",
+    "destination": "https://adblockplus.org/bugs#reporting"
+  },
+  {
+    "source": "adblock_plus_report_ad",
+    "destination": "https://forums.lanik.us/viewforum.php?f=62"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=en",
+    "destination": "https://forums.lanik.us/viewforum.php?f=64"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=id",
+    "destination": "https://forums.lanik.us/viewforum.php?f=94"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=nl",
+    "destination": "https://forums.lanik.us/viewforum.php?f=100"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=de",
+    "destination": "https://forums.lanik.us/viewforum.php?f=90"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=it",
+    "destination": "https://forums.lanik.us/viewforum.php?f=96"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=es",
+    "destination": "https://forums.lanik.us/viewforum.php?f=103"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=lt",
+    "destination": "https://forums.lanik.us/viewforum.php?f=101"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=lv",
+    "destination": "https://forums.lanik.us/viewforum.php?f=99"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=ar",
+    "destination": "https://forums.lanik.us/viewforum.php?f=98"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=fr",
+    "destination": "https://forums.lanik.us/viewforum.php?f=91"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=ru",
+    "destination": "https://forums.lanik.us/viewforum.php?f=102"
+  },
+  {
+    "source": "adblock_plus_report_issue&lang=xy",
+    "destination": "https://forums.lanik.us/viewforum.php?f=64"
+  },
+  {
+    "source": "adblock_plus_report_issue",
+    "destination": "https://forums.lanik.us/viewforum.php?f=64"
+  },
+  {
+    "source": "releases",
+    "destination": "https://adblockplus.org/releases/"
+  },
+  {
+    "source": "social_twitter",
+    "destination": "https://twitter.com/adblockplus"
+  },
+  {
+    "source": "uninstalled",
+    "destination":"https://adblockplus.org/en/uninstalled?link=uninstalled"
+  },
+  {
+    "source": "gettingStarted",
+    "destination":"https://adblockplus.org/en/getting_started"
+  },
+  {
+    "source": "faq",
+    "destination":"https://adblockplus.org/en/faq"
+  },
+  {
+    "source": "filterdoc",
+    "destination":"https://help.eyeo.com/adblockplus/how-to-write-filters"
+  },
+  {
+    "source": "subscriptions",
+    "destination":"https://adblockplus.org/en/subscriptions"
+  },
+  {
+    "source": "language_subscription",
+    "destination":"https://adblockplus.org/getting_started#subscription"
+  },
+  {
+    "source": "reporter_privacy",
+    "destination":"https://adblockplus.org/en/privacy#issue-reporter"
+  },
+  {
+    "source": "privacy",
+    "destination":"https://adblockplus.org/en/privacy"
+  },
+  {
+    "source": "contribute",
+    "destination":"https://adblockplus.org/en/contribute"
+  },
+  {
+    "source": "donate",
+    "destination":"https://adblockplus.org/en/donate"
+  },
+  {
+    "source": "donate_frp_page",
+    "destination":"https://adblockplus.org/donate?utm_source=abp&utm_medium=frp_page&utm_campaign=donate"
+  },
+  {
+    "source": "donate_settings_page",
+    "destination":"https://adblockplus.org/en/donate?utm_source=abp&utm_medium=settings_page&utm_campaign=donate"
+  },
+  {
+    "source": "donation_update_page",
+    "destination":"https://adblockplus.org/donate?utm_source=abp&utm_medium=update_page&utm_campaign=donate"
+  },
+  {
+    "source": "acceptable_ads",
+    "destination":"https://adblockplus.org/en/acceptable-ads"
+  },
+  {
+    "source": "acceptable_ads_criteria",
+    "destination":"https://adblockplus.org/en/acceptable-ads#criteria"
+  },
+  {
+    "source": "acceptable_ads_survey",
+    "destination":"https://adblockplus.org/acceptable-ads-survey"
+  },
+  {
+    "source": "privacy_friendly_ads",
+    "destination":"https://adblockplus.org/acceptable-ads#privacy-friendly-acceptable-ads"
+  },
+  {
+    "source": "contributors",
+    "destination":"https://adblockplus.org/en/contributors"
+  },
+  {
+    "source": "whitelist",
+    "destination":"https://adblockplus.org/en/faq_basics#disable"
+  },
+  {
+    "source": "adblock_plus",
+    "destination":"https://adblockplus.org/"
+  },
+  {
+    "source": "eyeo",
+    "destination":"https://eyeo.com/"
+  },
+  {
+    "source": "developer",
+    "destination": "https://adblockplus.org/forum/viewforum.php?f=4"
+  },
+  {
+    "source": "help_center",
+    "destination": "https://help.eyeo.com/"
+  },
+  {
+    "source": "help_center_abp_en",
+    "destination": "https://help.eyeo.com/en/adblockplus/"
+  },
+  {
+    "source": "help_center_abp_en&lang=xy",
+    "destination": "https://help.eyeo.com/en/adblockplus/"
+  },
+  {
+    "source": "imprint",
+    "destination": "https://adblockplus.org/en/imprint"
+  },
+  {
+    "source": "block_element",
+    "destination": "https://help.eyeo.com/adblockplus/block-item-or-element"
+  },
+  {
+    "source": "chrome_review",
+    "destination": "https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/reviews?ref=store-rating"
+  },
+  {
+    "source": "chrome_review_low",
+    "destination": "https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb/reviews?ref=store-rating"
+  },
+  {
+    "source": "adware",
+    "destination": "https://help.eyeo.com/adblockplus/adware"
+  },
+  {
+    "source": "adblock_plus_release_blog_3.7",
+    "destination": "https://adblockplus.org/blog/new-release-adblock-plus-37"
+  },
+  {
+    "source": "adblock_plus_release_blog_3.8",
+    "destination": "https://adblockplus.org/blog/new-release-adblock-plus-38"
+  },
+  {
+    "source": "chrome_store",
+    "destination": "https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb"
+  },
+  {
+    "source": "edge_store",
+    "destination": "https://microsoftedge.microsoft.com/addons/detail/gmgoamodcdcjnbaobigkjelfplakmdhh"
+  },
+  {
+    "source": "block_cookie_warnings",
+    "destination": "https://adblockplus.org/block-cookie-warnings"
+  }
 ]
